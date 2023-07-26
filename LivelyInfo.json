@@ -1,0 +1,14 @@
+{
+  "AppVersion": "0.9.6.0",
+  "Title": "元素周期表",
+  "Thumbnail": "lively_t.jpg",
+  "Preview": "lively_p.gif",
+  "Desc": "可交互的元素周期表桌面",
+  "Author": "Mike Golus",
+  "License": null,
+  "Contact": "https://codepen.io/mikegolus/pen/OwrPgB",
+  "Type": 1,
+  "FileName": "index.html",
+  "Arguments": null,
+  "IsAbsolutePath": false
+}
